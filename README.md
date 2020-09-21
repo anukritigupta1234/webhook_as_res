@@ -1,1 +1,1 @@
-# webhook_as_res
+# webhook_as_resource
